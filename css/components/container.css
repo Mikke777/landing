@@ -1,0 +1,51 @@
+.container {
+  align-content: center;
+  color: white;
+}
+
+main h2{
+  text-align: center;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: center;
+  margin-right: 310.8px;
+  margin-left: 310.8px;
+  margin-bottom: 30px;
+}
+
+.articles {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230, 230, 230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230, 230, 230);
+}
+
+.articles img {
+ width: 150px;
+}
+
+.articles p {
+  opacity: .5;
+}
+
+footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.fa-brands {
+  color: rgb(30, 221, 136);
+  font-size: 30px;
+  margin: 5px;
+}
+
+footer p {
+  color: rgb(107, 108, 108);
+}

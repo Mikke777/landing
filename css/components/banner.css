@@ -1,0 +1,8 @@
+.banner {
+  background-image: url("../../images/background.png");
+  display: flex;
+  justify-content: center;
+  align-content: flex-end;
+  height: 600px;
+  background-position: center;
+}
